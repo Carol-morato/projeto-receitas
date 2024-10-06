@@ -3,28 +3,50 @@
     font-size:30px;
 }
 
+header {
+   
+    color: #fff;
+    padding: 5px 0;
+    text-align: center;
+   
+}
+
 body{
    
-    background:#FFC0CB;
+   /*background:#FFC0CB;*/
+   background: #FFF;
 }
 
 
-/*estilizando texto bem vindo*/
+/*estilizando texto Amo Receitas*/
 P{
 
-    font-size: 30PX;
+    font-size: 20PX;
     font-weight: bold;
-    color: darkmagenta;
+    color:#BC8F8F;
 
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1{
     font-weight: bold;
-    color: #000 ;
-    margin-bottom: 5px;
+    color: #BC8F8F ;
+    margin-bottom: 50px;
     text-align: center;
-    font-size: 10PX;
+    font-size: 50PX;
 }
+
+h2{
+
+    font-weight: bold;
+    color: #000
+    margin-bottom: 1px;
+    text-align: center;
+    font-size: 12PX;
+
+}
+
+
+
 
 
 ul {
@@ -41,16 +63,16 @@ li {
 
 /*estilizando os menus*/
 li a {
-    padding: 10px 5px; 
+    padding: 1px 1px; 
     margin:0;
     border: 15px solid #BC8F8F;
     background: #BC8F8F;
     text-decoration: none;
     color:#FFF;
     /*cantos arredondados */
-    -webkit-border-radius:5px;
-    -moz-border-radius:5px;
-    border-radius:5px;
+    /*-webkit-border-radius:5px;*/
+  /* -moz-border-radius:5px;*/
+    border-radius:15px;
 }
 
 
@@ -63,7 +85,7 @@ li a:hover {
 
 
 footer{
-    position: fixed;
+    position: botton;
     bottom: 0;
     left: 0;
     width: 100%;
