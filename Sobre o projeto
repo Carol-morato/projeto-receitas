@@ -1,0 +1,32 @@
+Bom dia Ronan,
+
+Como fiz vários arquivos, vou comentá-los todos nesse arquivo.
+
+Com a graça do bom Deus entendi a materia . Até o GIT.  Ufaaa
+0
+No meu projeto, para definição da interface, tomei por base páginas do mesmo segmento. Para o desenvolvimento, me foquei no 
+arquivos das aulas e documentação existente na internet.
+
+Procurei fazer o código de forma bem simples mas que me agradasse visualmente.
+
+Não inclui elemente em JS por não saber como usá-los ainda.
+
+Procurei manter a mesma estrutura estética em todo site, como cabeçalho de todas as páginas contendo nome do site e conjunto 
+de menus.
+
+Para criação do cabeçalho da página , usei a tag nav dentro da header. Os menus foram criados através das tags UL e LI.
+A ordenação do menu em linha, foi através do display: inline, definido no arquivo CSS. Também defini as bordas arredondadas do 
+menu através da border-radius
+
+No rodapé de cada página, tem a identificação de autoria, através do footer, onde a position escolhida foi botton, para que 
+o elemento sempre fique no final da página, mesmo quando rolar a página.
+
+Nas páginas das receitas , dividi o corpo da tela em dois setores, uma da receita e outro da imagem. Essa divisão da tela
+foi feita pelas classes container , box e box 1, que foram definidos no arquivo css.
+
+
+Qualquer dúvida estou à disposição.
+Obrigada!
+Carolina
+
+
